@@ -278,8 +278,9 @@ GameObject:
   - component: {fileID: 637804761}
   - component: {fileID: 637804763}
   - component: {fileID: 637804764}
+  - component: {fileID: 637804765}
   m_Layer: 0
-  m_Name: yuusya_game
+  m_Name: player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -717,6 +718,18 @@ PolygonCollider2D:
       - {x: -0.25, y: 3.08}
       - {x: -0.12, y: 3.27}
       - {x: -0.12, y: 3.29}
+--- !u!114 &637804765
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 637804760}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b679c8a1a4f0a4d1e9a655783be3dfbe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 5
 --- !u!1 &855250720
 GameObject:
   m_ObjectHideFlags: 0
