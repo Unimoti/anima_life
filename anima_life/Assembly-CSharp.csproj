@@ -53,7 +53,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\player.cs" />
+     <Compile Include="Assets\Scripts\PlayerJump.cs" />
+     <Compile Include="Assets\Scripts\PlayerWalk.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>/Users/SM/unimoti/anima_life/anima_life/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
