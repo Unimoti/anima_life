@@ -1,3 +1,7 @@
 # Unity Version
 
-2.16f1
+3.0f2
+
+# Git hub repository
+
+https://github.com/Unimoti/anima_life
