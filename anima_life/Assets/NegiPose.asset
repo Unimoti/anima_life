@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: NegiPose
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: NegiL/HoneL1
+    localPosition: {x: -0.64235723, y: 1.6121597, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.79969543, w: 0.6004059}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: NegiL/HoneL1/HoneL2
+    localPosition: {x: 1.9241297, y: -0.00000071525574, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.000005210281, w: 1}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: NegiL/HoneL1/HoneL2/HoneL3
+    localPosition: {x: 0.5380611, y: -0.00000011667544, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.1592793, w: 0.9872336}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: NegiR/HoneR1
+    localPosition: {x: -0.64235723, y: 1.6490855, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.63197875, w: 0.77498573}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: NegiR/HoneR1/HoneR2
+    localPosition: {x: 1.924387, y: -0.00000014901161, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.031289894, w: 0.99951035}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: NegiR/HoneR1/HoneR2/HoneR3
+    localPosition: {x: 0.5380611, y: -0.00000011667544, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.0945013, w: 0.99552476}
+    localScale: {x: 1, y: 1, z: 1}
