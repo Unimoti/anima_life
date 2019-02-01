@@ -1,0 +1,238 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c10c0be6d28fe4d539c4a39822fe301c, type: 3}
+  m_Name: Body
+  m_EditorClassIdentifier: 
+  m_ApiVersion: 4
+  m_Sprite: {fileID: 21300006, guid: 20c071457cbe992469d9ff1d8e9247d7, type: 3}
+  m_SharedMesh: {fileID: 43479741630945076}
+--- !u!43 &43479741630945076
+Mesh:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: NewNeko_3
+  serializedVersion: 9
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 45
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 15
+    localAABB:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 0.475, y: 0.65, z: 0}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 020001000000030000000100060005000400010002000d000400050007000700050008000800050009000d000a00010005000a0009000e0001000a0002000c000b000b000d0002000a000b00090009000b000c000b000a000d00
+  m_VertexData:
+    serializedVersion: 2
+    m_VertexCount: 15
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 24
+      format: 0
+      dimension: 4
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 1
+      offset: 0
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 2
+      offset: 0
+      format: 0
+      dimension: 4
+    - stream: 2
+      offset: 16
+      format: 11
+      dimension: 4
+    m_DataSize: 1216
+    _typelessdata: 3333f3be48e1fabe000000000000000000000000000080bf0000803f0000000000000000000080bf7b14eebe713d0abf000000000000000000000000000080bf0000803fb309bb3500000000000080bf7b14eebe48e1fabe000000000000000000000000000080bf0000803f9e77063500000000000080bf3333f3be713d0abf000000000000000000000000000080bf0000803f0000000000000000000080bf0ad7e33e0000003f000000000000000000000000000080bf0000803f56d1913300000000000080bf3333f33e666626bf000000000000000000000000000080bf0000803fab240a3100000000000080bf3333f33e0ad7233e000000000000000000000000000080bf0000803fe0e976b500000000000080bfe17a143e6666263f000000000000000000000000000080bf0000803fc2c1883200000000000080bfcdcc8cbe6666263f000000000000000000000000000080bf0000803f491b00b300000000000080bfd7a3b0be0000003f000000000000000000000000000080bf0000803f87f93ab300000000000080bf295ccfbe666626bf000000000000000000000000000080bf0000803fb392ca3100000000000080bf0ad7e3be000000bf000000000000000000000000000080bf0000803f0782d83400000000000080bf7b14eebe00000000000000000000000000000000000080bf0000803ff256823000000000000080bf0ad7e3be14ae07bf000000000000000000000000000080bf0000803f68337d3400000000000080bf7b14eebeae4721bf000000000000000000000000000080bf0000803f7b096d3400000000000080bf00000000000000000000063f0000e03e0000073f0000db3e0000073f0000e03e0000063f0000db3e0000623f0080213f0000653f0000d03e0000653f0080103f0000443f0000293f00001a3f0000293f0000133f0080213f00000d3f0000d03e0000093f0000df3e0000073f0080083f0000093f0000dc3e0000073f0000d23e0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0.475, y: 0.65, z: 0}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshMetrics[0]: 1
+  m_MeshMetrics[1]: 1
+  m_MeshOptimized: 0
+  m_StreamData:
+    offset: 0
+    size: 0
+    path: 
+--- !u!114 &114552638903599218
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e715ea371f114f4a8d2584ad476634d, type: 3}
+  m_Name: NewNeko_3_Data
+  m_EditorClassIdentifier: 
+  m_PivotPoint: {x: 181.5, y: 273}
+  m_Vertices:
+  - {x: 134, y: 224}
+  - {x: 135, y: 219}
+  - {x: 135, y: 224}
+  - {x: 134, y: 219}
+  - {x: 226, y: 323}
+  - {x: 229, y: 208}
+  - {x: 229, y: 289}
+  - {x: 196, y: 338}
+  - {x: 154, y: 338}
+  - {x: 147, y: 323}
+  - {x: 141, y: 208}
+  - {x: 137, y: 223}
+  - {x: 135, y: 273}
+  - {x: 137, y: 220}
+  - {x: 135, y: 210}
+  m_BoneWeights: []
+  m_Edges:
+  - index1: 8
+    index2: 9
+  - index1: 5
+    index2: 10
+  - index1: 2
+    index2: 12
+  - index1: 14
+    index2: 1
+  - index1: 7
+    index2: 8
+  - index1: 14
+    index2: 10
+  - index1: 9
+    index2: 12
+  - index1: 4
+    index2: 7
+  - index1: 6
+    index2: 4
+  - index1: 6
+    index2: 5
+  - index1: 3
+    index2: 0
+  - index1: 2
+    index2: 0
+  - index1: 3
+    index2: 1
+  m_Holes: []
+  m_Indices: 01000000020000000d0000000b0000000d000000020000000e000000010000000a0000000d0000000a000000010000000b0000000a0000000d000000020000000c0000000b000000090000000b0000000c0000000a0000000b00000009000000050000000a00000009000000080000000500000009000000070000000500000008000000040000000500000007000000060000000500000004000000030000000000000001000000020000000100000000000000
+  m_BindPoses: []
+  m_Blendshapes: []
